@@ -5,4 +5,6 @@ it is a simple step by step tutorial to apply FRCNN FPN Res50 architicture to de
 
 Steps:
 1- Download crop-weed-detection dataset from : get data from https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes
+
 2- Run notebook.
+
